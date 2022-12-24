@@ -123,6 +123,7 @@ const QuoteBox = () => {
               </button>
             </div>
           </div>
+          <p>By SAVANCE FORD</p>
         </div>
       </div>
     );
