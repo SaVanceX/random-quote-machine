@@ -1,0 +1,49 @@
+.app-background {
+  background-color: #282c34;
+  min-height: 100vh;
+  color: whitesmoke;
+}
+
+.app-row {
+  background-color: darkslateblue;
+  min-height: 100vh;
+  animation-name: fadeIn;
+  animation-duration: 1.5s;
+}
+
+.quote-box {
+  background-color: bisque;
+  color: black;
+  padding: 40px;
+  .text {
+    font-weight: 500;
+    font-size: 1.5rem;
+  }
+}
+
+.btnBackground {
+  border: none;
+  padding: 5px;
+  color: white;
+  outline: none;
+  box-shadow: none;
+  animation-name: fadeIn;
+  animation-duration: 1.5s;
+}
+
+.twitter-background {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.btns {
+  margin-top: 20px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
