@@ -79,7 +79,7 @@ const QuoteBox = () => {
           backgroundColor: colors[color],
         }}
       >
-        <div className="col-6">
+        <div className="col-sm col-md-6">
           <div className="quote-box animation-quote-box" id="quote-box">
             <p
               id="text"

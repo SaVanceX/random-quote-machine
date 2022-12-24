@@ -31,6 +31,11 @@
   animation-duration: 1.5s;
 }
 
+.btnBackground:focus {
+  outline: none;
+  box-shadow: none;
+}
+
 .twitter-background {
   padding-left: 15px;
   padding-right: 15px;
