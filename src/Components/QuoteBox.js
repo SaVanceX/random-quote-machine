@@ -16,7 +16,7 @@ const QuoteBox = () => {
 
   const colors = [
     "#C49AC7",
-    "#B6E284",
+    "#458100",
     "#6CD9A9",
     "#605CB8",
     "#E64640",
